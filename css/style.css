@@ -9,6 +9,9 @@
   --overlay: #1e2030;
   --blue: #8aadf4;
   --lav: #b7bdf8;
+  --red: #ed8796;
+  --green: #a6da95;
+  --mauve: rgb(138, 100, 186);
 }
 /* debug
 *{
@@ -24,9 +27,10 @@ header,.main,.pmain,.pfp,.meowwAngel,.license{
 	outline:2px solid var(--lav);
 }
 header:hover,.license:hover,.meowwAngel:hover,.main:hover,.pfp:hover,.pmain:hover{
-	background-color: var(--s2);
-  	box-shadow: 0 0 10px var(--lav);
-  	transform: scale(1.01);
+	background-color: var(--mauve);
+  	box-shadow: 0 0 10px var(--mauve);
+  	outline: 2px solid var(--mauve);
+  	transform: scale(1.006);
 }
 body{
 	background: var(--bgc);
