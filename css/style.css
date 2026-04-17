@@ -1,0 +1,127 @@
+/*	Macchiato*/
+:root{
+  --coffee: #c0ffee;
+  --bgc: #181926;
+  --text: #cad3f5;
+  --s1: #24273a;
+  --s2: #313244;
+  --link: #c6a0f6;
+  --highlighttext: #7dc4e4;
+  --overlay: #1e2030;
+}
+/* debug
+*{
+  outline: 1px solid red;
+}
+*/
+::selection{
+  background: var(--overlay); /* Background color */
+  color: var(--highlighttext);      /* Text color */
+  text-shadow: none;   /* Optional: remove text shadow */
+}
+header:hover,.license:hover,.meowwAngel:hover,.main:hover,.pfp:hover,.pmain:hover{
+	background-color: var(--s2);
+  	box-shadow: 0 0 10px var(--link);
+}
+body{
+	background: var(--bgc);
+	width: 100%;
+	font-family: 'JetBrains Mono', monospace;
+	margin: 0;
+}
+a{
+	color: var(--link);
+	text-decoration: none;
+}
+.link{
+	color: var(--link);
+	text-decoration: none;
+}
+header{
+	box-sizing: border-box;
+	text-align: center;
+	background-color: var(--s1);
+	padding: 5px;
+	margin: 10px;
+	border-radius: 10px;
+	color: var(--text);
+	font-size: 50px;
+	left: 0;
+	font-weight: bold;
+}
+.main{
+	box-sizing: border-box;
+	border-radius: 10px;
+	padding: 5px;
+	margin: 10px;
+	background-color: var(--s1);
+}
+.subtitle{
+	color: var(--text);
+	text-align: center;
+	font-size: 25px;
+	text-decoration: underline;
+	margin: 5px;
+}
+.content{
+	color: var(--text);
+	text-align: left;
+	margin: 5px;
+}
+.profile{
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.pfp{
+	background-color: var(--s1);
+	margin: 15px;
+	padding: 10px;
+	border-radius: 5px;
+}
+.pmain{
+	flex: 1;
+	box-sizing: border-box;
+	border-radius: 10px;
+	padding: 5px;
+	margin: 10px;
+	background-color: var(--s1);
+}
+.psubtitle{
+	color: var(--text);
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+	margin: 5px;
+}
+.pcontent{
+	color: var(--text);
+	text-align: center;
+	margin: 5px;
+	font-size: 25px;
+}
+
+.footer div{
+	text-align: center;
+	background-color: var(--s1);
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	position: fixed;
+	bottom: 0;
+	width: 100px;
+	color: var(--text);
+}
+.footer footer a{
+	text-align: center;
+	background-color: var(--s1);
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	position: fixed;
+	bottom: 0;
+	width: 100px;
+	color: var(--text);
+	right: 0;
+	text-decoration: none;
+}
