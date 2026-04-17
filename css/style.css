@@ -9,6 +9,7 @@
   --highlighttext: #7dc4e4;
   --overlay: #1e2030;
   --blue: #8aadf4;
+  --lav: #b7bdf8;
 }
 /* debug
 *{
@@ -22,7 +23,7 @@
 }
 header:hover,.license:hover,.meowwAngel:hover,.main:hover,.pfp:hover,.pmain:hover{
 	background-color: var(--s2);
-  	box-shadow: 0 0 10px var(--link);
+  	box-shadow: 0 0 10px var(--lav);
 }
 body{
 	background: var(--bgc);
