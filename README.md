@@ -1,1 +1,1 @@
-Website: https://meowwangel.github.io/index.html
+Website: https://meowwangel.github.io/
