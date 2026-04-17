@@ -1,5 +1,3 @@
-/* Finally got discord to verify omg*/
-
 /*	Macchiato*/
 :root{
   --coffee: #c0ffee;
@@ -26,6 +24,7 @@
 header:hover,.license:hover,.meowwAngel:hover,.main:hover,.pfp:hover,.pmain:hover{
 	background-color: var(--s2);
   	box-shadow: 0 0 10px var(--lav);
+  	transform: scale(1.01);
 }
 body{
 	background: var(--bgc);
@@ -129,6 +128,7 @@ header{
 	color: var(--text);
 	right: 0;
 	text-decoration: none;
+	transition: all 0.2s ease;
 }
 .meowwAngellink{
 	color: var(--blue);
