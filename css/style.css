@@ -8,6 +8,7 @@
   --link: #c6a0f6;
   --highlighttext: #7dc4e4;
   --overlay: #1e2030;
+  --blue: #8aadf4;
 }
 /* debug
 *{
@@ -125,4 +126,9 @@ header{
 	color: var(--text);
 	right: 0;
 	text-decoration: none;
+}
+.meowwAngellink{
+	color: var(--blue);
+	text-decoration: italic;
+	font-weight: bold;
 }
