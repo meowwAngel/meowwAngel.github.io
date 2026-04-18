@@ -13,13 +13,16 @@ personal or internal business purposes.
 
 You may:
 - Use the Software for personal, educational, or internal organizational purposes;
+- Copy the Software solely as necessary to install, execute, and use it in accordance
+  with this License;
 - Modify the Software strictly for your own personal or internal use, provided such
   modifications remain subject to this License.
 
 2. RESTRICTIONS
 
 You shall not, and shall not permit any third party to:
-- Copy, reproduce, distribute, or publicly disclose the Software or any substantial portion thereof;
+- Copy, reproduce, or distribute the Software or any substantial portion thereof,
+  except as expressly permitted for installation and permitted use;
 - Sell, resell, license, sublicense, lease, rent, or otherwise commercially exploit the Software;
 - Publish, transmit, or otherwise make the Software available to any third party in any form,
   whether in source code, object code, or any other format;
@@ -27,7 +30,7 @@ You shall not, and shall not permit any third party to:
 
 3. COPYRIGHT NOTICE
 
-All copies or permitted internal reproductions of the Software must include this License and
+All copies made as permitted under this License must include this License and
 all copyright and proprietary notices contained herein.
 
 4. TERMINATION
@@ -37,16 +40,22 @@ all rights granted to you under this License shall immediately cease, and you mu
 immediately discontinue all use of the Software and destroy all copies in your possession
 or control.
 
-5. GOVERNING LAW
+5. GOVERNING LAW AND JURISDICTION
 
-This License shall be governed by and construed in accordance with the laws of Canada,
-without regard to its conflict of law principles. Any disputes arising out of or relating
-to this License shall be subject to the exclusive jurisdiction of the courts of Canada.
+This License shall be governed by and construed in accordance with the laws of the
+Province of Quebec and the federal laws of Canada applicable therein, without regard
+to conflict of law principles.
+
+The parties irrevocably agree that the courts of the Province of Quebec, sitting in
+the judicial district of Montreal, shall have exclusive jurisdiction to hear and
+determine any dispute arising out of or in connection with this License, and hereby
+waive any objection to such jurisdiction or venue.
 
 6. DISCLAIMER OF WARRANTY
 
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
-AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
