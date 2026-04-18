@@ -1,103 +1,124 @@
-ANGEL LICENSE
+ANGEL LICENSE (PROPRIETARY SOURCE-AVAILABLE SOFTWARE LICENSE)
+Version 1.2
+Effective Date: 2026
 
 Copyright (c) 2026 angel
 
-This Software and associated documentation files (the "Software") are licensed, not sold,
-to you by the copyright holder, subject to the terms and conditions of this License.
+1. DEFINITIONS
 
-"You" (or "Licensee") means the individual or legal entity exercising rights under this License.
+"Software" means the software and associated documentation files provided under this License.
 
-Subject to your compliance with this License, you are hereby granted a limited,
-non-exclusive, non-transferable, revocable license to use the Software solely for
+"You" or "Licensee" means the individual or legal entity exercising rights under this License.
+
+"Use" means to install, execute, run, or interact with the Software.
+
+"Copy" means any reproduction of the Software, including loading into memory, storage, or backups.
+
+"Modify" means to alter, adapt, or create derivative works of the Software.
+
+2. LICENSE GRANT
+
+Subject to your compliance with this License, the copyright holder grants you a limited,
+non-exclusive, non-transferable, revocable license to Use the Software solely for
 personal or internal business purposes.
 
-All rights, title, and interest in and to the Software, including all intellectual
-property rights, are and shall remain the exclusive property of the copyright holder.
+This License is intended to be a proprietary, source-available license. It does not grant
+any rights to distribute, sublicense, or commercially exploit the Software.
 
-1. PERMITTED USES
+3. PERMITTED USES
 
 You may:
 - Use the Software for personal, educational, or internal organizational purposes;
-- Copy the Software solely as necessary to install, execute, and use it in accordance
-  with this License;
-- Modify the Software strictly for your own personal or internal use, provided such
-  modifications remain subject to this License.
+- Copy the Software as reasonably necessary to install, execute, back up, and operate it,
+  including ephemeral copies created during normal system or CI/CD processes;
+- Modify the Software solely for your own personal or internal use.
 
-2. RESTRICTIONS
+Modified versions remain subject to this License and may not be distributed.
+
+4. RESTRICTIONS
 
 You shall not, and shall not permit any third party to:
-- Copy, reproduce, or distribute the Software or any substantial portion thereof,
-  except as expressly permitted for installation and permitted use;
+- Copy, reproduce, distribute, or make available the Software outside your organization;
 - Sell, resell, license, sublicense, lease, rent, or otherwise commercially exploit the Software;
-- Publish, transmit, or otherwise make the Software available to any third party in any form,
-  whether in source code, object code, or any other format;
-- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code
-  of the Software, except to the extent such restriction is prohibited by applicable law;
-- Remove, alter, or obscure any copyright, trademark, or proprietary notices contained in the Software.
+- Provide the Software to third parties, except to contractors acting on your behalf under
+  confidentiality obligations and solely for your internal use;
+- Publish, host, or make the Software accessible as a service to third parties;
+- Reverse engineer, decompile, or disassemble the Software, except to the extent permitted
+  by applicable law for interoperability or other legally protected purposes;
+- Remove or alter any proprietary notices.
 
-3. COPYRIGHT NOTICE
+5. OWNERSHIP AND INTELLECTUAL PROPERTY
 
-All copies made as permitted under this License must include this License and
-all copyright and proprietary notices contained herein.
+The Software is licensed, not sold. All rights, title, and interest in and to the Software,
+including all intellectual property rights, remain with the copyright holder.
 
-4. TERMINATION
+No patent rights are granted under this License.
 
-This License shall automatically terminate upon any breach of its terms. Upon termination,
-all rights granted to you under this License shall immediately cease, and you must
-immediately discontinue all use of the Software and destroy all copies in your possession
-or control.
+6. TERMINATION
 
-5. GOVERNING LAW AND JURISDICTION
+This License terminates automatically if you materially breach its terms.
 
-This License shall be governed by and construed in accordance with the laws of the
-Province of Quebec and the federal laws of Canada applicable therein, without regard
-to conflict of law principles.
+Where reasonably possible, the copyright holder may provide notice of breach and allow
+a period of thirty (30) days to cure the violation before termination takes effect.
 
-To the fullest extent permitted by applicable law, the parties agree that any disputes
-arising out of or relating to this License shall be subject to the exclusive jurisdiction
-of the courts located in Montreal, Quebec, Canada.
+Upon termination, you must cease all use of the Software and delete all copies within
+your possession or control, except to the extent retention is required by law.
 
-6. SEVERABILITY
+Sections relating to ownership, restrictions, liability, and governing law shall survive termination.
 
-If any provision of this License is held to be invalid, illegal, or unenforceable,
-such provision shall be enforced to the maximum extent permissible, and the remaining
-provisions shall remain in full force and effect.
+7. GOVERNING LAW
 
-7. WAIVER
+This License shall be governed by the laws of Canada.
 
-The failure of the copyright holder to enforce any right or provision of this License
-shall not constitute a waiver of such right or provision.
+To the extent permitted by applicable law, disputes may be brought in the courts of Canada.
+Nothing in this section limits rights granted under mandatory consumer protection laws.
 
-8. LIMITATION OF LIABILITY
+8. SEVERABILITY
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS
-OR COPYRIGHT HOLDERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
-OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, OR USE, ARISING OUT OF
-OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGES.
+If any provision of this License is held invalid or unenforceable, the remaining provisions
+shall remain in full force and effect.
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL AGGREGATE LIABILITY
-OF THE AUTHORS OR COPYRIGHT HOLDERS FOR ANY CLAIMS ARISING OUT OF OR RELATING TO
-THE SOFTWARE OR THIS LICENSE SHALL NOT EXCEED THE AMOUNT PAID BY YOU FOR THE SOFTWARE,
-OR ONE HUNDRED CANADIAN DOLLARS (CAD $100), WHICHEVER IS GREATER.
+9. WAIVER
 
-9. DISCLAIMER OF WARRANTY
+Failure to enforce any provision of this License shall not constitute a waiver.
 
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED
-BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+10. LIMITATION OF LIABILITY
 
-10. ASSIGNMENT
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED WITHOUT LIABILITY
+FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
 
-You may not assign or transfer this License or any rights granted herein without prior
-written consent of the copyright holder.
+TOTAL LIABILITY SHALL NOT EXCEED THE GREATER OF:
+(A) THE AMOUNT PAID FOR THE SOFTWARE; OR
+(B) CAD $100.
 
-11. ENTIRE AGREEMENT
+THIS LIMITATION DOES NOT APPLY WHERE PROHIBITED BY LAW, INCLUDING LIABILITY FOR DEATH,
+PERSONAL INJURY, OR WILLFUL MISCONDUCT.
+
+11. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NONINFRINGEMENT.
+
+12. ENTIRE AGREEMENT
 
 This License constitutes the entire agreement between you and the copyright holder
-regarding the Software and supersedes all prior or contemporaneous understandings,
-agreements, or communications.
+regarding the Software.
+
+13. ASSIGNMENT
+
+You may not assign this License without prior written consent.
+
+14. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless the copyright holder from and against
+any and all claims, demands, damages, liabilities, losses, costs, and expenses (including
+reasonable legal fees) arising out of or related to:
+
+(a) Your use of the Software;
+(b) Your violation of this License; or
+(c) Your violation of any applicable law or rights of a third party.
+
+The copyright holder reserves the right, at its own expense, to assume the exclusive
+defense and control of any matter otherwise subject to indemnification by you, in which
+event you agree to cooperate fully with such defense.
