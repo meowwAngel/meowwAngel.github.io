@@ -1,21 +1,52 @@
-MIT License
+ANGEL LICENSE
 
 Copyright (c) 2026 angel
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This Software and associated documentation files (the "Software") are licensed, not sold,
+to you by the copyright holder, subject to the terms and conditions of this License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Subject to your compliance with this License, you are hereby granted a limited,
+non-exclusive, non-transferable, revocable license to use the Software solely for
+personal or internal business purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. PERMITTED USES
+
+You may:
+- Use the Software for personal, educational, or internal organizational purposes;
+- Modify the Software strictly for your own personal or internal use, provided such
+  modifications remain subject to this License.
+
+2. RESTRICTIONS
+
+You shall not, and shall not permit any third party to:
+- Copy, reproduce, distribute, or publicly disclose the Software or any substantial portion thereof;
+- Sell, resell, license, sublicense, lease, rent, or otherwise commercially exploit the Software;
+- Publish, transmit, or otherwise make the Software available to any third party in any form,
+  whether in source code, object code, or any other format;
+- Remove, alter, or obscure any copyright, trademark, or proprietary notices contained in the Software.
+
+3. COPYRIGHT NOTICE
+
+All copies or permitted internal reproductions of the Software must include this License and
+all copyright and proprietary notices contained herein.
+
+4. TERMINATION
+
+This License shall automatically terminate upon any breach of its terms. Upon termination,
+all rights granted to you under this License shall immediately cease, and you must
+immediately discontinue all use of the Software and destroy all copies in your possession
+or control.
+
+5. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of Canada,
+without regard to its conflict of law principles. Any disputes arising out of or relating
+to this License shall be subject to the exclusive jurisdiction of the courts of Canada.
+
+6. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
