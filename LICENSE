@@ -5,9 +5,14 @@ Copyright (c) 2026 angel
 This Software and associated documentation files (the "Software") are licensed, not sold,
 to you by the copyright holder, subject to the terms and conditions of this License.
 
+"You" (or "Licensee") means the individual or legal entity exercising rights under this License.
+
 Subject to your compliance with this License, you are hereby granted a limited,
 non-exclusive, non-transferable, revocable license to use the Software solely for
 personal or internal business purposes.
+
+All rights, title, and interest in and to the Software, including all intellectual
+property rights, are and shall remain the exclusive property of the copyright holder.
 
 1. PERMITTED USES
 
@@ -26,6 +31,8 @@ You shall not, and shall not permit any third party to:
 - Sell, resell, license, sublicense, lease, rent, or otherwise commercially exploit the Software;
 - Publish, transmit, or otherwise make the Software available to any third party in any form,
   whether in source code, object code, or any other format;
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code
+  of the Software, except to the extent such restriction is prohibited by applicable law;
 - Remove, alter, or obscure any copyright, trademark, or proprietary notices contained in the Software.
 
 3. COPYRIGHT NOTICE
@@ -46,16 +53,51 @@ This License shall be governed by and construed in accordance with the laws of t
 Province of Quebec and the federal laws of Canada applicable therein, without regard
 to conflict of law principles.
 
-The parties irrevocably agree that the courts of the Province of Quebec, sitting in
-the judicial district of Montreal, shall have exclusive jurisdiction to hear and
-determine any dispute arising out of or in connection with this License, and hereby
-waive any objection to such jurisdiction or venue.
+To the fullest extent permitted by applicable law, the parties agree that any disputes
+arising out of or relating to this License shall be subject to the exclusive jurisdiction
+of the courts located in Montreal, Quebec, Canada.
 
-6. DISCLAIMER OF WARRANTY
+6. SEVERABILITY
+
+If any provision of this License is held to be invalid, illegal, or unenforceable,
+such provision shall be enforced to the maximum extent permissible, and the remaining
+provisions shall remain in full force and effect.
+
+7. WAIVER
+
+The failure of the copyright holder to enforce any right or provision of this License
+shall not constitute a waiver of such right or provision.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, OR USE, ARISING OUT OF
+OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL AGGREGATE LIABILITY
+OF THE AUTHORS OR COPYRIGHT HOLDERS FOR ANY CLAIMS ARISING OUT OF OR RELATING TO
+THE SOFTWARE OR THIS LICENSE SHALL NOT EXCEED THE AMOUNT PAID BY YOU FOR THE SOFTWARE,
+OR ONE HUNDRED CANADIAN DOLLARS (CAD $100), WHICHEVER IS GREATER.
+
+9. DISCLAIMER OF WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
-OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED
+BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+10. ASSIGNMENT
+
+You may not assign or transfer this License or any rights granted herein without prior
+written consent of the copyright holder.
+
+11. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between you and the copyright holder
+regarding the Software and supersedes all prior or contemporaneous understandings,
+agreements, or communications.
